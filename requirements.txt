@@ -1,0 +1,9 @@
+pytube
+youtube-transcript-api
+scrapetube
+pydrive
+opencv-python
+torch
+torchvision
+keras
+tensorflow
